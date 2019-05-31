@@ -1,0 +1,23 @@
+
+.btn-test {
+    -fx-font: bold italic 10pt "Arial";
+    -fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+    -fx-background-color: "blue";
+}
+
+.test {
+    -fx-background-color: "blue";
+    -fx-font: bold italic 10pt "Arial";
+}
+
+.right-panel_btn {
+    -fx-background-color: red;
+    -fx-border-radius: 5;
+    -fx-border-color: black;
+    -fx-pref-width: 50;
+    -fx-pref-height: 50;
+}
+
+.blue {
+    -fx-background-color: blue;
+}
